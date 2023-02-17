@@ -15,3 +15,8 @@ Splash Activity
 
 
 Main Activity
+
+
+
+
+![Screenshot 2023-02-17 203550](https://user-images.githubusercontent.com/122524861/219692218-729a9015-bda0-4697-acbd-681d4a0ba6ec.png)
